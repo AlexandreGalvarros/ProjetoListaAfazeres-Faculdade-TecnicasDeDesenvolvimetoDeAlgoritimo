@@ -3,7 +3,5 @@ O programa de lista de afazeres desenvolvido em Python, utilizando o framework D
 A junção de Python, Django e SQLite3 torna o projeto uma excelente introdução ao desenvolvimento de aplicações web completas. Além de abordar conceitos fundamentais de banco de dados e operações CRUD.
 
 Eduardo Brito[https://github.com/eduar-silva] - RGM: 43685731
-https://github.com/eduar-silva
 
-Alexandre Galvarros - RGM: 45011656
-https://github.com/AlexandreGalvarros
+Alexandre Galvarros[https://github.com/AlexandreGalvarros] - RGM: 45011656
