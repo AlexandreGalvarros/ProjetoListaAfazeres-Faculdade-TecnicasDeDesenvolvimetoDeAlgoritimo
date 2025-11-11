@@ -2,7 +2,7 @@
  🚧 Em desenvolvimento 🚧
 </h4>
 <h1 align="center"> Lista Afazeres </h1>
-O programa de lista de afazeres desenvolvido tem como objetivo oferecer uma aplicação web simples e eficiente para o gerenciamento de tarefas com prazos. Através de uma interface amigável, o usuário pode registrar, visualizar e acompanhar suas atividades diárias de forma organizada, mantendo o controle sobre o que precisa ser feito e os respectivos prazos de entrega.
+O programa de lista de afazeres em desenvolvimento tem como objetivo oferecer uma aplicação web simples e eficiente para o gerenciamento de tarefas com prazos. Através de uma interface amigável, o usuário pode registrar, visualizar e acompanhar suas atividades diárias de forma organizada, mantendo o controle sobre o que precisa ser feito e os respectivos prazos de entrega.
 
 # Tecnologias Usadas
 
